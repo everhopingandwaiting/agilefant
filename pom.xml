@@ -37,7 +37,7 @@
 		<jfreechart.version>1.0.14</jfreechart.version>
 		<joda.time.version>2.1</joda.time.version>
 		<joda.time.jsptags.version>1.1.1</joda.time.jsptags.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<logback.version>1.0.9</logback.version>
 		<mysql.version>5.1.23</mysql.version>
 		<oro.version>2.0.8</oro.version>
