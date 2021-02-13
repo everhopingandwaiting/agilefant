@@ -41,7 +41,7 @@
 		<logback.version>1.0.9</logback.version>
 		<mysql.version>5.1.23</mysql.version>
 		<oro.version>2.0.8</oro.version>
-		<poi.version>3.9</poi.version>
+		<poi.version>3.17</poi.version>
 		<slf4j.version>1.7.2</slf4j.version>
 		<spring.version>3.2.13.RELEASE</spring.version>
 		<spring.security.version>3.2.5.RELEASE</spring.security.version>
