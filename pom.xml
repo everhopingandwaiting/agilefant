@@ -39,7 +39,7 @@
 		<joda.time.jsptags.version>1.1.1</joda.time.jsptags.version>
 		<junit.version>4.11</junit.version>
 		<logback.version>1.0.9</logback.version>
-		<mysql.version>5.1.23</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<oro.version>2.0.8</oro.version>
 		<poi.version>3.9</poi.version>
 		<slf4j.version>1.7.2</slf4j.version>
