@@ -49,7 +49,7 @@
 		<struts.version>2.3.14.2</struts.version>
 		<typesafe.config.version>1.0.0</typesafe.config.version>
 		<usertype.version>3.0.0.GA</usertype.version>
-		<jackson.version>2.3.0</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 
 		<maven.compiler.version>3.0</maven.compiler.version>
 		<maven.war.version>2.3</maven.war.version>
